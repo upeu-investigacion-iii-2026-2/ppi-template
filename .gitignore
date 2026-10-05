@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Archivos temporales
+*.tmp
+*.log
+*.aux
+
+# Salidas generadas automáticamente
+entregables/*.pdf

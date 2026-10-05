@@ -1,0 +1,15 @@
+proyecto:
+  titulo: "Título del proyecto de investigación"
+
+integrantes:
+  - nombre: "Estudiante 1"
+  - nombre: "Estudiante 2"
+
+curso:
+  nombre: "Investigación III"
+  escuela: "Ingeniería de Sistemas"
+  universidad: "Universidad Peruana Unión"
+  periodo: "2026-II"
+
+docente:
+  nombre: "M.Sc. Fredy Abel Huanca Torres"
