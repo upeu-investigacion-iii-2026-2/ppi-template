@@ -10,6 +10,7 @@ Este repositorio permite desarrollar, versionar y documentar el Perfil de Proyec
 ## Organización
 
 - `sesiones/` — actividades y evidencias de cada sesión.
+- `recursos/` — guías teóricas y material de apoyo.
 - `ppi/` — componentes que conforman el Perfil de Proyecto de Investigación.
 - `literatura/` — documentación relacionada con la revisión de literatura.
 - `instrumentos/` — instrumentos de recolección de datos.
