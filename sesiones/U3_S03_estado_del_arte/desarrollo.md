@@ -60,7 +60,7 @@ NOT "término excluido"
 
 ### Criterios de exclusión
 
-1. [Ejemplo: publicación sin resultados o metodología verificable.]
+1. [Ejemplo: publicación sin resultados o procedimiento metodológico verificable.]
 2. [Ejemplo: documento duplicado, poster o resumen sin suficiente detalle.]
 3. [Ejemplo: estudio fuera de la población, dominio o contexto definido.]
 

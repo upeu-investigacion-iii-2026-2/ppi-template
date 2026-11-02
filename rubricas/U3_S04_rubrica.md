@@ -14,7 +14,7 @@
 | E6 | Plan de análisis que permite contrastar la hipótesis | 3 |
 | E7 | Amenazas a la validez identificadas con medidas de control | 2 |
 | E8 | Aspectos éticos y riesgos considerados | 1 |
-| E9 | Metodología redactada, referencias y trazabilidad mediante Git | 2 |
+| E9 | Procedimiento metodológico redactado, referencias y trazabilidad mediante Git | 2 |
 | | **TOTAL** | **20** |
 
 ## Criterios adicionales
@@ -27,4 +27,4 @@
 ## Evidencia verificable en GitHub
 
 El docente verificará `actividad.md`, `desarrollo.md`, el contenido de
-`evidencias/`, la sección Metodología en `ppi/` y el historial de commits.
+`evidencias/`, la sección Procedimiento metodológico en `ppi/` y el historial de commits.

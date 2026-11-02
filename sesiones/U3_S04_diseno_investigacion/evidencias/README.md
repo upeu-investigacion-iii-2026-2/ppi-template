@@ -12,7 +12,7 @@ investigación.
 - plan de análisis estadístico o notebook de prueba;
 - matriz de coherencia problema–objetivos–hipótesis–diseño;
 - registro de riesgos;
-- borradores de la sección Metodología.
+- borradores de la sección Procedimiento metodológico.
 
 ## Organización recomendada
 

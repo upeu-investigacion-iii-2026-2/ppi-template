@@ -18,7 +18,7 @@ de respuestas incorrectas.
 
 ---
 
-## 3. Metodología (ejemplo de redacción)
+## 3. Procedimiento metodológico (ejemplo de redacción)
 
 ### 3.1. Enfoque, alcance y tipo de investigación
 

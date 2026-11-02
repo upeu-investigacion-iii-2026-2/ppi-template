@@ -38,13 +38,13 @@ del arte:
 8. Definir la estrategia de análisis de datos y las pruebas de contraste de la
    hipótesis.
 9. Identificar riesgos, consideraciones éticas, recursos y cronograma.
-10. Redactar la sección «Metodología» del PPI.
+10. Redactar la sección «Procedimiento metodológico» del PPI.
 
 ## Material de apoyo
 
 - Guía teórica: `recursos/Guia_teorica_diseno_investigacion_y_recoleccion_datos.md`
   (Unidad I: diseños de investigación).
-- Ejemplo de redacción de la sección Metodología:
+- Ejemplo de redacción de la sección Procedimiento metodológico:
   `ejemplo_redaccion.md` (datos ficticios; es un modelo, no debe copiarse).
 
 ## Criterios mínimos
@@ -73,7 +73,7 @@ del arte:
 - E6. Plan de análisis de datos y contraste de la hipótesis.
 - E7. Amenazas a la validez y mitigaciones.
 - E8. Consideraciones éticas y riesgos.
-- E9. Borrador de la sección Metodología y referencias.
+- E9. Borrador de la sección Procedimiento metodológico y referencias.
 
 Las evidencias complementarias deberán almacenarse en:
 
@@ -82,7 +82,7 @@ Las evidencias complementarias deberán almacenarse en:
 ## Producto de la sesión
 
 Un diseño metodológico coherente y replicable, junto con el borrador de la
-sección «Metodología» del PPI, guardado en `ppi/`.
+sección «Procedimiento metodológico» del PPI, guardado en `ppi/`.
 
 ## Control de versiones
 

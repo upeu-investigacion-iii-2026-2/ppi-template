@@ -117,9 +117,9 @@ licencias de datos, uso responsable de IA.]
 
 ---
 
-## E9. Borrador de Metodología y referencias
+## E9. Borrador del procedimiento metodológico y referencias
 
-[Redactar la sección Metodología: enfoque, diseño, población o dataset,
+[Redactar la sección Procedimiento metodológico: enfoque, diseño, población o dataset,
 variables, procedimiento, análisis y ética. Guardar la versión en `ppi/`.]
 
 ### Referencias
